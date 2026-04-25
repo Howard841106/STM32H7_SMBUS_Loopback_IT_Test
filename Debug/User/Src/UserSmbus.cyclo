@@ -1,0 +1,13 @@
+../User/Src/UserSmbus.c:39:14:UserSmbus_RunLoopbackTest	7
+../User/Src/UserSmbus.c:69:14:UserSmbus_CheckData	2
+../User/Src/UserSmbus.c:78:6:UserSmbus_RecoverBus	1
+../User/Src/UserSmbus.c:87:6:UserSmbus_Indicate_Pass	1
+../User/Src/UserSmbus.c:93:6:UserSmbus_Indicate_Error	1
+../User/Src/UserSmbus.c:99:6:UserSmbus_Indicate_Mismatch	1
+../User/Src/UserSmbus.c:107:6:HAL_SMBUS_AddrCallback	2
+../User/Src/UserSmbus.c:114:6:HAL_SMBUS_SlaveRxCpltCallback	2
+../User/Src/UserSmbus.c:119:6:HAL_SMBUS_MasterTxCpltCallback	2
+../User/Src/UserSmbus.c:124:6:HAL_SMBUS_ListenCpltCallback	2
+../User/Src/UserSmbus.c:129:6:HAL_SMBUS_ErrorCallback	1
+../User/Src/UserSmbus.c:136:13:Prepare_SMBUS_Test	1
+../User/Src/UserSmbus.c:142:13:Print_Buffer_ASCII	4

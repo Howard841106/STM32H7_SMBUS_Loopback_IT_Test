@@ -30,3 +30,4 @@
 "./Src/system_stm32h7xx.o"
 "./Src/usart.o"
 "./Startup/startup_stm32h723zgtx.o"
+"./User/Src/UserSmbus.o"

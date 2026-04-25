@@ -25,4 +25,5 @@ SUBDIRS := \
 Drivers/STM32H7xx_HAL_Driver/Src \
 Src \
 Startup \
+User/Src \
 
